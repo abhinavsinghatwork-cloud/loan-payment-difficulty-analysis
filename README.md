@@ -1,5 +1,8 @@
 # Loan Payment Difficulty Analysis
 
+## Dashboard Preview
+![Loan Payment Difficulty Dashboard](loan-payment-dashboard.png)
+
 ## Project Overview
 
 This project analyzes loan payment difficulty patterns across different customer segments to identify potential repayment risks and provide actionable business insights.
